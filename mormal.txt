@@ -1,0 +1,1 @@
+Es un cifrado AES de 128 bits
